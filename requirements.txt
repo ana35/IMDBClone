@@ -1,6 +1,6 @@
 astroid==2.2.5
 colorama==0.4.1
-Django==2.2
+Django==2.2.24
 django-filter==2.1.0
 django-mysql==3.0.0.post1
 django-rest-auth==0.9.5
